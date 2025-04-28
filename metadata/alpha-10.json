@@ -1,0 +1,70 @@
+{
+    "name": "Blockticity #36401",
+    "description": "The leader in guaranteed certificates of authenticity for the most valuable of possessions. A Different Approach to Credibility with Error-Proof Certifications.",
+    "image": "https://production-blockticity-public.s3.amazonaws.com/nft/assets/alpha-10.jpg",
+    "edition": 36401,
+    "date": 1730842558,
+    "attributes": [
+      {
+        "trait_type": "Client Name",
+        "value": "SeedCore"
+      },
+      {
+        "trait_type": "Company Name",
+        "value": "SeedCore"
+      },
+      {
+        "trait_type": "Order Identifier",
+        "value": "alpha-10"
+      },
+      {
+        "trait_type": "Transaction Date",
+        "value": "2024-08-10 12:00:00"
+      },
+      {
+        "trait_type": "CERTIFICATE NUMBER",
+        "value": "10"
+      },
+      {
+        "trait_type": "Farm Licence",
+        "value": "2"
+      },
+      {
+        "trait_type": "Order Number",
+        "value": "1782"
+      },
+      {
+        "trait_type": "Order Date",
+        "value": "August 10, 2024"
+      },
+      {
+        "trait_type": "Order Volume",
+        "value": "500 kgs"
+      },
+      {
+        "trait_type": "Collection Date (SAP)",
+        "value": "Aug 22 - Sep 6, 2024"
+      },
+      {
+        "trait_type": "Production Date (Sugar)",
+        "value": "Aug 22 - Sep 6, 2024"
+      },
+      {
+        "trait_type": "Delivery Date",
+        "value": "Sep 8, 2024"
+      },
+      {
+        "trait_type": "FDA Cert #",
+        "value": "LTO-3000008777882"
+      },
+      {
+        "trait_type": "Philippines Farming Cert.",
+        "value": "R11-01285"
+      },
+      {
+        "trait_type": "Geo Location data",
+        "value": "https://www.google.com/maps/place/Mawab,+Davao+de+Oro,+Philippines"
+      }
+    ]
+  }
+  
